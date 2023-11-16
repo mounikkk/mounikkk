@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhavagnya
+- 👋 Hi, I’m @Mounika
 - 👀 I’m interested in web development and coding.
 - 🌱 I’m currently learning basics.
 
